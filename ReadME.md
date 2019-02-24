@@ -9,7 +9,7 @@ We have been victim of the backdoor and shady landlords and bad properties. I sh
 We built a Soildity smart contract to not only pay rent every month to the landlord but keep all information transparent. 
 
 ## How we built it
-We used Remix an online solidity complier to not only test on a mock blockchain with fake ether
+We used Remix an online solidity complier to not only test on a mock blockchain with fake ether. http://remix.ethereum.org
 
 ## Challenges we ran into
 The Moving parts in a contract. We have limited experience in Soildity so we are still trying to understand how object interact with a contract. We struggled with how to make everything viewable in a very functional way
