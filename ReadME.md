@@ -1,4 +1,4 @@
-#College students only receive information that Landlord Provides thus they get swindled
+##### College students only receive information that Landlord Provides thus they get swindled
 *By Claire Goldstien and Aislinn Jeske* 
 *Started at HackCU- Fab 23/24 2019*
 
