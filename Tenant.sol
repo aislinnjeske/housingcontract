@@ -13,7 +13,7 @@ struct Car {
     string PlateNumber;
 }
 
-    string Tenant_name;
+    string public Tenant_name;
     string CoSigner_Name;     
     string Phone_Number; 
     uint256 DateSigned;
